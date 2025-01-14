@@ -8,7 +8,7 @@ Support me to be an independent open-source programmer 💟
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U3FQ2JA)
 
-## Installation
+## Installations
 ```sh
 go get github.com/zakaria-chahboun/cute
 ```
